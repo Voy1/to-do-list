@@ -1,6 +1,7 @@
 ![image](https://github.com/user-attachments/assets/cff83a9e-d961-4978-9d49-3ecd4433274b)# To-Do List App 📝
 
-<img src="img/ico.png" alt="To-Do List App" width="35" height="35">
+<img src="![image](https://github.com/user-attachments/assets/83b74a16-9ee5-4237-9aea-1165bdc6743e)
+" alt="To-Do List App" width="35" height="35">
 
 ## Overview 🌟
 
