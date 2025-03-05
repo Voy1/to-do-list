@@ -46,8 +46,3 @@ The To-Do List app is a simple and efficient task management tool that helps you
 You can try the To Do List application online by following [this link](https://voy1-todolist.netlify.app/).
 
 
-## Feedback and Support 💌
-
-Thank you for using my To-Do List app. I hope it helps you stay organized and productive. If you have any feedback, or suggestions, or encounter any issues, please feel free to contact the developer, Mohit Negi, at mohitnegi183@gmail.com
-
-Happy tasking! 😊
